@@ -1,0 +1,11 @@
+../Core/Src/fft_stm32.c:76:6:ComputeFFT	136	static
+../Core/Src/fft_stm32.c:155:6:ComplexToMagnitude	40	static
+../Core/Src/fft_stm32.c:163:6:ComplexToMagnitudeST	24	static
+../Core/Src/fft_stm32.c:177:6:DCRemovalST	32	static
+../Core/Src/fft_stm32.c:193:6:DCRemoval	40	static
+../Core/Src/fft_stm32.c:222:6:Windowing	72	static
+../Core/Src/fft_stm32.c:287:8:MajorPeakST	56	static
+../Core/Src/fft_stm32.c:310:8:MajorPeak	72	static
+../Core/Src/fft_stm32.c:335:9:Exponent	24	static
+../Core/Src/fft_stm32.c:346:6:Swap	24	static
+../Core/Src/fft_stm32.c:355:6:PrintVector	120	static

@@ -1,0 +1,20 @@
+TIEMPOS DE FFT CON STM32 @ 84 MHZ
+==================================
+muestras	ticks(ms)
+==================================
+8		1
+16		2
+64		5
+128		10
+256		22
+512		46
+1024		98
+
+=========================================
+LCD  Nokia
+Audio -> PA0
+LCD_CLK -> PA5
+LCD_DATA -> PA7
+LCD_DC -> PA3
+LCD_CE -> PA2
+LCD_RS -> PA1

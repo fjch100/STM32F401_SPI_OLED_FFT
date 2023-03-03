@@ -1,0 +1,9 @@
+../Core/Src/main.c:93:5:main	8	static
+../Core/Src/main.c:166:6:SystemClock_Config	88	static
+../Core/Src/main.c:212:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:264:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:298:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:303:6:func_test_fft	24	static
+../Core/Src/main.c:356:6:clearBuffer	16	static
+../Core/Src/main.c:361:6:creaData	40	static
+../Core/Src/main.c:378:6:Error_Handler	4	static,ignoring_inline_asm
